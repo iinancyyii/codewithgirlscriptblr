@@ -1,3 +1,5 @@
+# 2D Arrays
+
 #### Context 
 Given a **_6x6_** 2D Array, _A_:
 ```Python
