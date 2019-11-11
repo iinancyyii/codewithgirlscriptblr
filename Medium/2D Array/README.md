@@ -5,14 +5,14 @@
 ## Context
 
 Given a *6X6* 2D Array, :
->
-1 1 1 0 0 0
-0 1 0 0 0 0
-1 1 1 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
->
+
+> 1 1 1 0 0 0
+> 0 1 0 0 0 0
+> 1 1 1 0 0 0
+> 0 0 0 0 0 0
+> 0 0 0 0 0 0
+> 0 0 0 0 0 0
+
 
 We define an hourglass in A to be a subset of values with indices falling in this pattern in A's graphical representation:
 
